@@ -146,25 +146,25 @@ Evaluates the financial impact of customer churn.
 
 ## Executive Dashboard
 
-![Executive Dashboard](dashboard_screenshots/Executive_Dashboard.png)
+![Executive Dashboard](dashboard_screenshots/Executive_Dashboard.PNG)
 
 ---
 
 ## Customer Demographics
 
-![Customer Demographics](dashboard_screenshots/Customer_Demographics.png)
+![Customer Demographics](dashboard_screenshots/Customer_Demographics.PNG)
 
 ---
 
 ## Behavior & Churn Drivers
 
-![Behavior & Churn Drivers](dashboard_screenshots/Behavior_Churn_Drivers.png)
+![Behavior & Churn Drivers](dashboard_screenshots/Behavior_Churn_Drivers.PNG)
 
 ---
 
 ## Revenue & Retention Impact
 
-![Revenue & Retention Impact](dashboard_screenshots/Revenue_Retention_Impact.png)
+![Revenue & Retention Impact](dashboard_screenshots/Revenue_Retention_Impact.PNG)
 
 ---
 
